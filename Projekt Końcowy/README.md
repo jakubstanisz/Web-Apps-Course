@@ -107,7 +107,6 @@ W bazie danych (`db.json`) przygotowano konta do testowania ról:
 | :--- | :--- | :--- | :--- |
 | **Administrator** | `prowadzacy` | `arbuz` | Pełny dostęp, usuwanie wszystkich komentarzy. |
 | **Użytkownik** | `gruby` | `123` | Zakupy, dodawanie opinii, usuwanie własnych opinii. |
-| **Użytkownik** | `murzyn` | `nygger123` | Zakupy, dodawanie opinii, usuwanie własnych opinii. |
 | **Użytkownik** | `lysy` | `labodega` | Zakupy, dodawanie opinii, usuwanie własnych opinii. |
 
 ---
