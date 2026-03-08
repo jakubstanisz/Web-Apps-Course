@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>La Bodega Del Ron</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <nav class="nawigator">
+      <a href="index.html">Home</a>
+      <a href="galerry.html">Galeria</a>
+      <a href="contact.html">Kontakt</a>
+    </nav>
+
+    <main class="container">
+      <h2 class="tytul">Skontaktuj się z nami</h2>
+
+      <form method="post" class="contact-form">
+        <div class="form-group">
+          <label for="email">Twój Email:</label>
+          <input
+            type="email"
+            id="email"
+            name="email"
+            placeholder="twojemail@costam.cos"
+            minlength="5"
+            maxlength="254"
+            required
+          />
+        </div>
+
+        <div class="form-group">
+          <label for="temat-wiadomosci">Temat wiadomości:</label>
+          <select name="temat" id="temat-wiadomosci" required>
+            <option value="" disabled selected>-- Wybierz temat --</option>
+            <option value="zapytanie">Zapytanie ogólne</option>
+            <option value="wspolpraca">Propozycja współpracy</option>
+            <option value="rezerwacja">Rezerwacja</option>
+            <option value="problem">Zgłoszenie problemu</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="wiadomosc-uzytkownika">Wiadomość:</label>
+          <textarea
+            id="wiadomosc-uzytkownika"
+            name="wiadomosc"
+            rows="1"
+            placeholder="Wpisz swoją wiadomość tutaj..."
+            minlength="10"
+            required
+          ></textarea>
+        </div>
+
+        <div class="form-group">
+          <input type="submit" value="Wyślij" />
+        </div>
+      </form>
+    </main>
+
+    <footer>
+      <p>Jakub Staniszewski</p>
+    </footer>
+  </body>
+</html>
