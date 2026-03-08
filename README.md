@@ -11,6 +11,6 @@ This repository contains a collection of web development projects and laboratory
 ## Projects Overview
 Here is a summary of the main projects included in this repository:
 
-* **Projekt LaBodega ** Custom-built, responsive websites demonstrating proficiency in semantic HTML, modern CSS styling, and page layout design.
-* **Flappy Bird Clone ** An interactive web-based implementation of the classic game. Built to practice JavaScript DOM manipulation, game loops, collision detection, and event handling.
-* **Projekt Końcowy ** A dynamic front-end application built with React, showcasing component-based architecture, hooks, and state management.
+* Projekt LaBodega: Custom-built, responsive websites demonstrating proficiency in semantic HTML, modern CSS styling, and page layout design.
+* Flappy Bird Clone: An interactive web-based implementation of the classic game. Built to practice JavaScript DOM manipulation, game loops, collision detection, and event handling.
+* Projekt Końcowy: A dynamic front-end application built with React, showcasing component-based architecture, hooks, and state management.
