@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "name": "prowadzacy",
+      "haslo": "arbuz",
+      "role": "admin"
+    },
+    {
+      "name": "gruby",
+      "haslo": "123",
+      "role": "user"
+    },
+    {
+      "name": "test",
+      "haslo": "123",
+      "role": "user"
+    },
+    {
+      "name": "lysy",
+      "haslo": "labodega",
+      "role": "user"
+    },
+    {
+      "name": "murzyn",
+      "haslo": "nygger123",
+      "role": "user"
+    }
+  ],
+  "opinions": [
+    {
+      "productId": 3,
+      "email": "FDS@gmail.com",
+      "text": "fsf",
+      "stars": 5,
+      "user": "prowadzacy"
+    }
+  ],
+  "orders": [
+    {
+      "id": 123456789,
+      "data": "25.01.2025, 12:00:00",
+      "lacznaCena": "99.99",
+      "produkty": [
+        {
+          "id": 1,
+          "title": "Plecak Fjord Nansen",
+          "price": 49.99,
+          "quantity": 2
+        }
+      ],
+      "uzytkownik": "gruby"
+    },
+    {
+      "id": 1769341639505,
+      "data": "25.01.2026, 12:47:19",
+      "produkty": [
+        {
+          "id": 3,
+          "title": "Mens Cotton Jacket",
+          "price": 55.99,
+          "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+          "rating": {
+            "rate": 4.7,
+            "count": 500
+          },
+          "quantity": 1
+        }
+      ],
+      "lacznaCena": "55.99",
+      "uzytkownik": "prowadzacy"
+    },
+    {
+      "id": 123456789,
+      "data": "25.01.2025, 12:00:00",
+      "lacznaCena": "99.99",
+      "produkty": [
+        {
+          "id": 1,
+          "title": "Plecak Fjord Nansen",
+          "price": 49.99,
+          "quantity": 2
+        }
+      ],
+      "uzytkownik": "lysy"
+    }
+  ],
+  "refreshTokens": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiZ3J1YnkiLCJyb2xlIjoidXNlciIsImlhdCI6MTc2OTMzNjk3M30.1I_-zU-MJC3jPPGc3BOgitQSMKxQ43DR_U257xVlxoc",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoicHJvd2FkemFjeSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc2OTMzNzI0Nn0.1BwrEoMimXmpuzV_AbzTh8WZpN1ruP35IQxBReFio9c",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoicHJvd2FkemFjeSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc2OTMzNzM3NX0.7r7P7yBan98ycwvNQogLB_2ifToK6_1B4XCsy9Cegho",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiZ3J1YnkiLCJyb2xlIjoidXNlciIsImlhdCI6MTc2OTMzNzg2M30.4o32Sql53ZbGZBA_Yq_yNKZYcoThHhK0aTtdAut9Z2I",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoidGVzdCIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY5MzM4MDcwfQ.9NCvoPAmtywlwimtC2GpklsGUOy5H_SFu4HVUfVGixE",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoidGVzdCIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY5MzM4NDg5fQ.c2eRxSqwubgGMs8TE6S1NCstu-fJe8v0Bb2ji8iAfx0",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiZ3J1YnkiLCJyb2xlIjoidXNlciIsImlhdCI6MTc2OTMzODY3NX0.lfPjq3pWeW2mdiJELnggvCvLxpGEB3iDvDnYzDdFuY8",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoidGVzdCIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY5MzM4NzcyfQ.QkZo63MlYJStzdAfAs4FOemnbvQoF3k-5Rx_yjldnvg",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoicHJvd2FkemFjeSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc2OTMzODgyOX0.XuuBiTOhimksD_41Ta66xmO_dSpuPdEIZ_ft03v17SM",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiZ3J1YnkiLCJyb2xlIjoidXNlciIsImlhdCI6MTc2OTMzOTAxNn0.0TuGF-YwiCjPviPOFIx-pgm1BNAlsxKC83Z2P2HaxrE",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoicHJvd2FkemFjeSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc2OTMzOTUxMn0._MLLQWEP_2ljPUOd-GcyRO8-zIxSCqdyFvDUarplJrI",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiZ3J1YnkiLCJyb2xlIjoidXNlciIsImlhdCI6MTc2OTMzOTU2NH0.XC1RqYgWIEVdl7de53Vr2HetZaosQInQ6dDDfrMQF3w",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoicHJvd2FkemFjeSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc2OTMzOTY0MH0._JW5GTqIxdq1nqDHVf8LlOoZXemB9VoTKuS_2aVZ5Xk",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoidGVzdCIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY5MzM5NzkzfQ.SFQk3YVFqw-F3l_kAlM_NhqvDpktS7azpeC_bJknasc",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoibHlzeSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY5MzQxNjc2fQ.6-I67YBBidUe3F2gjdLe2cED3xyaQC6GBvNaQ2xyo9k",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiZ3J1YnkiLCJyb2xlIjoidXNlciIsImlhdCI6MTc2OTM0MTc2N30.-UFQq9m90EEJu6BDs9xv_NAjLfLDJUxjXCsqWM0BIfY",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoicHJvd2FkemFjeSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc2OTM0MTgxMH0.BORJ-75bcXPyy5Cj-hGnMqXSO6ZPjnfaSfcG9Tvp4EI",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoibXVyenluIiwicm9sZSI6InVzZXIiLCJpYXQiOjE3NjkzNDE4NzJ9.wDBoRPbLhjg9xhgU9405PbWTp25pt57C-AKmxHSbTag",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoibXVyenluIiwicm9sZSI6InVzZXIiLCJpYXQiOjE3NjkzNDE4OTl9.xqGY-zIJ2TjJcN3DfYJEunEBLZS2HNJFJuf3dF-diDs",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoibXVyenluIiwicm9sZSI6InVzZXIiLCJpYXQiOjE3NjkzNDIwMTl9.PC_5JFQa8ZvoM6viTepBzLHi3-5NckyvxEyA0yzKv-k",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoibXVyenluIiwicm9sZSI6InVzZXIiLCJpYXQiOjE3NjkzNDIxNDN9.3Q0KHnaBNxQDdprJDp_AaFn9USpNT2De-PekiyGBTmQ"
+  ]
+}

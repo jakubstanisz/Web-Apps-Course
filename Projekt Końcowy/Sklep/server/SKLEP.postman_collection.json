@@ -1,0 +1,75 @@
+{
+	"info": {
+		"_postman_id": "a66327f4-4f18-40c9-9db3-fdd4b6b21995",
+		"name": "SKLEP",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "51169403",
+		"_collection_link": "https://krystianaugustyn-8087424.postman.co/workspace/Studia~de6d3052-45cb-4941-b1c1-fbd3f186ebd0/collection/51169403-a66327f4-4f18-40c9-9db3-fdd4b6b21995?action=share&source=collection_link&creator=51169403"
+	},
+	"item": [
+		{
+			"name": "Rejestracja",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "logowanie",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Opinie/Zamowienia",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Dodaj opinie",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Usuwanie opinii",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Odswiezenie tokenu",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Edytowanie opinii",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Skladanie zamowien",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
