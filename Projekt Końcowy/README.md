@@ -111,8 +111,3 @@ W bazie danych (`db.json`) przygotowano konta do testowania ról:
 
 ---
 
-## 👨‍💻 Autorzy
-
-* **[Krystian Augustyn]**
-* **[Jakub Staniszewski]**
-* **[Jakub Węgrzyniak]**
